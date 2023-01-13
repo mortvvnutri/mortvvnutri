@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![eCoolGe's Top Langs](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=eCoolGe&layout=compact&hide=autohotkey,handlebars&theme=dark)](https://github.com/eCoolGe)
+
+[![eCoolGe's GitHub stats](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=eCoolGe&show_icons=true&theme=dark)](https://github.com/eCoolGe)
