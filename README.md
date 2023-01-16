@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/mortvvnutri">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=mortvvnutri&hide=html,css&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000" alt="mortvvnutri's Top Langs"/>
 </a>
+<a href="https://github.com/mortvvnutri">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=mortvvnutri&show_icons=true&line_height=27&count_private=true&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000&icon_color=4AB097" alt="mortvvnutri's GitHub stats" />
+</a>
