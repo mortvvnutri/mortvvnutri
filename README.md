@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mortvvnutri&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=mortvvnutri&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=mortvvnutri&style=flat-square&color=blue" alt=""/>
