@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://i.pinimg.com/originals/ee/c6/f6/eec6f6980619cff8932558793d13be50.gif" width="250"/>
 </div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=mortvvnutri&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
