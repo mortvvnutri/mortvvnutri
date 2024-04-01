@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=mortvvnutri&style=flat-square&color=blue" alt=""/>
-[![trophy](https://github-profile-trophy.vercel.app/mortvvnutri=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div id="badges">
   <a href="your-linkedin-URL">
